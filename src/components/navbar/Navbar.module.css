@@ -1,0 +1,17 @@
+.navbar{ 
+    height: 9%;
+    width: 75%;
+    background-color: white;
+    margin-left: auto;
+}
+
+.navTool{ 
+    margin-left: auto;
+    background-color: white; 
+    max-height: 100%;
+}
+
+.navIcon{ 
+    height: 45%; 
+    margin-right: 10%; 
+}
